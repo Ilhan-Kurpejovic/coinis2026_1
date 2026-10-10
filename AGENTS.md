@@ -40,6 +40,7 @@
 - Success/active green: `#65bc7b`
 - Muted gray: `#9ea0a4`
 - Secondary accent/purple: `#6e45a1`
+  kjugfsudhgiuhg
 
 ### Color Usage Guidance
 

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm.cmd test:*)",
+      "Bash(npm.cmd run build:*)",
+      "Bash(npm.cmd run dev:*)",
+      "Bash(npm.cmd run preview:*)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)"
+    ]
+  }
+}
+

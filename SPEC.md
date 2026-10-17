@@ -26,3 +26,8 @@ Postojeci DevelopersLab frontend treba da prikaze jasan, responsivan i provjerlj
 - Nema backend koda.
 - Izmjene su commitovane u git.
 
+
+## Sta nije obuhvaceno
+
+- Backend i serverska logika.
+- Baza podataka i cuvanje podataka na serveru.
